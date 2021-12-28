@@ -47,14 +47,4 @@ Assertion Library to run the tests.
 
 ![Metamask](https://user-images.githubusercontent.com/68724079/147550051-0e3de4ba-8935-4ed0-b87b-8998af96b261.png)
 
-### 4. User Interface
 
-![Frontend](https://user-images.githubusercontent.com/68724079/147550042-2da9270d-7cd4-42d8-ac30-f95edc8a78f9.png)
-
-### 5. Add New Game
-
-![New Game](https://user-images.githubusercontent.com/68724079/147550054-7b863ffd-ecd0-4574-b5ff-2450899b23c5.png)
-
-### 6. User Interface Updated
-
-![Frontend-Updated](https://user-images.githubusercontent.com/68724079/147550048-9801c9e0-212e-4465-b3dc-0903bd8eb3de.png)
