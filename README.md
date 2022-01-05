@@ -45,6 +45,16 @@ Assertion Library to run the tests.
 
 ![Ganache](https://user-images.githubusercontent.com/68724079/147550049-fe785ad5-7c25-41b0-a705-667f729e2589.png)
 
-![Metamask](https://user-images.githubusercontent.com/68724079/147550051-0e3de4ba-8935-4ed0-b87b-8998af96b261.png)
+![Metamask](https://user-images.githubusercontent.com/68724079/148227997-9614e188-9d73-46fe-b6c4-f990b6ed6d91.png)
 
+### 4. User Interface
 
+![Frontend](https://user-images.githubusercontent.com/68724079/148227965-02c7a9e6-fc15-4235-85f4-291cabc32eb6.png)
+
+### 5. User Interaction
+
+![Modal](https://user-images.githubusercontent.com/68724079/148228006-77a49100-d885-417d-9ab2-0798a6ff3202.png)
+
+![Metamask Contract](https://user-images.githubusercontent.com/68724079/148228137-c6c991ec-91d8-4b41-96fe-3d69fe9972b2.png)
+
+![Frontend Updated](https://user-images.githubusercontent.com/68724079/148227971-77d6205b-ab65-4fa0-b80a-66a05d1025e8.png)
